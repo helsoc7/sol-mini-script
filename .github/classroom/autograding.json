@@ -6,7 +6,7 @@
   "tests": [
     {
       "specs": {
-        "title": "Erstelle eine mini.sh Datei dsfg"
+        "title": "Erstelle eine mini.sh Datei"
       },
       "name": "checking for mini.sh script",
       "feedback": "mini.sh script could not be found",
